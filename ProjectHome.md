@@ -1,0 +1,1 @@
+implementing generic alorithm using scala idioms
